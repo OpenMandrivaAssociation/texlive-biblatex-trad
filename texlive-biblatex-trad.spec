@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-biblatex-trad
 Version:	0.2
-Release:	6
+Release:	7
 Summary:	"Traditional" BibTeX styles with BibLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-trad
