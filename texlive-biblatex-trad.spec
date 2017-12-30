@@ -1,12 +1,6 @@
-# revision 27852
-# category Package
-# catalog-ctan /macros/latex/contrib/biblatex-contrib/biblatex-trad
-# catalog-date 2012-09-29 14:32:13 +0200
-# catalog-license lppl
-# catalog-version 0.2
 Name:		texlive-biblatex-trad
-Version:	0.2
-Release:	10
+Version:	0.3
+Release:	1
 Summary:	"Traditional" BibTeX styles with BibLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-trad
@@ -32,19 +26,8 @@ styles (plain, abbrev, unsrt and alpha) with BibLaTeX.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/biblatex-trad/bbx/trad-abbrv.bbx
-%{_texmfdistdir}/tex/latex/biblatex-trad/bbx/trad-alpha.bbx
-%{_texmfdistdir}/tex/latex/biblatex-trad/bbx/trad-plain.bbx
-%{_texmfdistdir}/tex/latex/biblatex-trad/bbx/trad-standard.bbx
-%{_texmfdistdir}/tex/latex/biblatex-trad/bbx/trad-unsrt.bbx
-%{_texmfdistdir}/tex/latex/biblatex-trad/cbx/trad-abbrv.cbx
-%{_texmfdistdir}/tex/latex/biblatex-trad/cbx/trad-alpha.cbx
-%{_texmfdistdir}/tex/latex/biblatex-trad/cbx/trad-plain.cbx
-%{_texmfdistdir}/tex/latex/biblatex-trad/cbx/trad-standard.cbx
-%{_texmfdistdir}/tex/latex/biblatex-trad/cbx/trad-unsrt.cbx
-%doc %{_texmfdistdir}/doc/latex/biblatex-trad/README.txt
-%doc %{_texmfdistdir}/doc/latex/biblatex-trad/biblatex-trad.pdf
-%doc %{_texmfdistdir}/doc/latex/biblatex-trad/biblatex-trad.tex
+%{_texmfdistdir}/tex/latex/biblatex-trad
+%doc %{_texmfdistdir}/doc/latex/biblatex-trad
 
 #-----------------------------------------------------------------------
 %prep
