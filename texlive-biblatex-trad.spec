@@ -1,5 +1,5 @@
 Name:		texlive-biblatex-trad
-Version:	0.4
+Version:	0.4a
 Release:	1
 Summary:	"Traditional" BibTeX styles with BibLaTeX
 Group:		Publishing
