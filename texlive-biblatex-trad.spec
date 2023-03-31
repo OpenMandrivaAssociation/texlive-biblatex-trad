@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-trad
 Version:	58169
-Release:	1
+Release:	2
 Summary:	"Traditional" BibTeX styles with BibLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-trad
